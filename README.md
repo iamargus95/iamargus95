@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🎓 I’m currently learning Bash Scripting, Kubernetes and Basics of AWS
+- 😇 Actively looking for work in the SRE or DevOps domain.
+
 <!--
 **iamargus95/iamargus95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
