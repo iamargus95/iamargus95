@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🎓 I’m currently learning Bash Scripting, Kubernetes and Basics of AWS
+- 🎓 I’m currently learning Golang, Cloud-Native Fundamentals and Basics of AWS.
 - 😇 Actively looking for work in the SRE or DevOps domain.
 - Check out my personal website https://iamargus95.github.io
 
