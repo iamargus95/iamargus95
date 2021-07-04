@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🎓 I’m currently learning Golang, Cloud-Native Fundamentals and Basics of AWS.
+- 🎓 I’m currently learning Cloud-Native Fundamentals, Basics of AWS, Kubernetes and IaC.
 - 😇 Actively looking for work in the SRE or DevOps domain.
 - Check out my personal website https://iamargus95.github.io
 
