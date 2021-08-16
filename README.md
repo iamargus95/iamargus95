@@ -2,8 +2,8 @@
 
 - 👔 Currently working at [One2N Consulting](https://one2n.in/) as a Software engineer.
 - 🎓 I’m currently learning Golang.
-<!-- - 😇 Actively looking for work in the SRE or DevOps domain.-->
 - Check out my personal website https://iamargus95.github.io
+<!-- - 😇 Actively looking for work in the SRE or DevOps domain.-->
 
 <!--
 **iamargus95/iamargus95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
