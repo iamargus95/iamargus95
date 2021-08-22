@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 👔 I currently work at [One2N Consulting](https://one2n.in/) as a Software engineer trainee.
 - 🌱 I’m currently learning Golang.
 - Check out my [personal website](https://iamargus95.github.io).
 <!-- - 😇 Actively looking for work in the SRE or DevOps domain.-->
