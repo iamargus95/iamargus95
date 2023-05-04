@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently working as a Software Engineer at One2N Consultinng.
-- Check out my [personal website](https://iamargus95.github.io).
+- 🌱 I’m currently working as a Software Development Engineer at One2N Consultinng.
+- Part-time OSS contributor.
+<!-- - Check out my [personal website](https://iamargus95.github.io). -->
 - 😇 Introduce me to your hobbies that do not include looking at a screen.
 - 💬 Ask me about Formula 1.
 
