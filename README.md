@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently working as a Software Development Engineer at One2N Consultinng.
 - Part-time OSS contributor.
-<!-- - Check out my [personal website](https://iamargus95.github.io). -->
 - 😇 Introduce me to your hobbies that do not include looking at a screen.
 - 💬 Ask me about Formula 1.
+<!-- - Check out my [personal website](https://iamargus95.github.io). -->
 
 <!--
 **iamargus95/iamargus95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
