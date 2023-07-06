@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently working as a Software Development Engineer at One2N Consultinng.
+- 🌱 I’m currently working as a Software Development Engineer with 2 years of exp in Golang. Currently learning Kubernetes.
 - Part-time OSS contributor.
 - 😇 Introduce me to your hobbies that do not include looking at a screen.
 - 💬 Ask me about Formula 1.
