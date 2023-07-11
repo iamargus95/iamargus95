@@ -1,21 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently working as a Software Development Engineer with 2 years of exp in Golang. Currently learning Kubernetes.
-- Part-time OSS contributor.
+- 🌱 I'm a Software Development Engineer with 2 years of exp in Golang. Looking for new opportunities to work with k8s operators.
+- 👨‍🎓 Currently learning AWS, Kubernetes.
+- ⏲️ Part-time OSS contributor.
 - 😇 Introduce me to your hobbies that do not include looking at a screen.
 - 💬 Ask me about Formula 1.
-<!-- - Check out my [personal website](https://iamargus95.github.io). -->
-
-<!--
-**iamargus95/iamargus95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
